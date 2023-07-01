@@ -1,16 +1,16 @@
 # Beautify_E_Commerce_Nykaa
 
-This is an Ecommerce website of beauty, wellness and cosmatic products.
+This is an Ecommerce website for beauty, wellness, and cosmetic products.
 
 ![image](https://user-images.githubusercontent.com/112810259/233780564-52a77fe7-4064-4b3d-a1e2-1e170cb474f8.png)
 
 ## Objective
 
-- To create a frontend based website which will be clone of Nyka.com
+- To create a frontend-based website that is a clone of Nyka.com
 
 ## Deployed Link
 ```http
-    https://rajbeautify.netlify.app/
+    https://rajbeautify.onrender.com
 ```
 
 # Tech-stacks(Frontend)
@@ -22,10 +22,10 @@ This is an Ecommerce website of beauty, wellness and cosmatic products.
 
 # REQUIREMENTS
 
-- User can login and sign up with authentication token
-- User can visit severals cosmetic pages
+- User can log in and sign up with an authentication token
+- User can visit several cosmetic pages
 - User can able to get all the information about products and services
-- User can purchases the products
+- Users can purchase the products
 - user can pay for the purchase
 - Admin page 
 
